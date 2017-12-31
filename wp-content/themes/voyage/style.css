@@ -1,0 +1,26 @@
+/*!
+Theme Name: Voyage
+Theme URI: http://www.rewindcreation.com/voyage
+Author URI: http://www.rewindcreation.com/
+
+Description: Voyage Theme is a flexible and responsive framework that combines a modified version of 960.gs and Twitter Bootstrap. It allows users changing layout and style using flexible and simple options: 1-, 2- or 3-column blog layout; fixed, fluid or responsive; grid width, color schemes, fonts (including Google Fonts) and many more. Voyage features 15 widget areas, 4 menu positions, 5 color schemes and 10 page templates including Featured Home, Landing Page, Full-Screen, Portfolio, Image Slider with template options. Voyage Theme includes 3 highly customizable widgets (Recent Post, Navigation Tab and Social), Colorbox and Font Awesome. It has build-in support to popular plugins such as Jetpack Sharing, WooCommerce, Jigoshop, Breadcrumb NavXT, bbPress and BuddyPress.
+
+Author: RewindCreation
+
+Version: 1.5.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+Tags: two-columns, three-columns, flexible-width, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, custom-menu, full-width-template, theme-options, post-formats, left-sidebar, right-sidebar, featured-images, translation-ready, light, blue, dark, silver
+
+Text Domain: voyage
+
+Voyage WordPress Theme, Copyright (C) 2012-2013 Stephen Cui
+----------------------------------------------------------------- */
+/* Surprised to see empty stylesheet? Please note that Voyage Theme
+ * uses minified verion of stylesheet. The source is located on 
+ * dev/voyage-style.css. You may use one of the follow options:
+ * 1. Save Custom CSS in Theme Options
+ * 2. Create a Child Theme. Voyage Theme will include Child Theme's
+ * style.css automatically.
+----------------------------------------------------------------- */

@@ -1,0 +1,12 @@
+== Changelog ==
+
+= 1.5.0 =
+* Change author website from xinthemes.com to rewindcreation.com
+
+= 1.4.5 =
+* Spanish Translation
+* Custom Walker_Nav_Menu class to be compatible with WP3.6
+
+= 1.4.4 =
+* Minor CSS change to ensure select tag is not overflow. 
+* Add note on theme options for Left & Right layout

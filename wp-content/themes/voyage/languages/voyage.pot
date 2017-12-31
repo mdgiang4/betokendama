@@ -1,0 +1,2056 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: XinThemes English\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-16 22:55-0600\n"
+"PO-Revision-Date: 2013-07-16 22:59-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_x;_ex;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../page-templates\n"
+"X-Poedit-SearchPath-2: ../../xin\n"
+"X-Poedit-SearchPath-3: ../../xin/pages\n"
+"X-Poedit-SearchPath-4: ../../xin-magazine\n"
+"X-Poedit-SearchPath-5: ../../xin-magazine/pages\n"
+"X-Poedit-SearchPath-6: ../../xin-magazine/xinwp\n"
+
+#: ../archive.php:21 ../inc/lib-content.php:505
+#: ../../xin/inc/lib-content.php:189
+#: ../../xin-magazine/inc/lib-content.php:284
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:23 ../inc/lib-content.php:507
+#: ../../xin/inc/lib-content.php:191
+#: ../../xin-magazine/inc/lib-content.php:286
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:23 ../inc/lib-content.php:507
+#: ../../xin/inc/lib-content.php:191
+#: ../../xin-magazine/inc/lib-content.php:286
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:25 ../inc/lib-content.php:509
+#: ../../xin/inc/lib-content.php:193
+#: ../../xin-magazine/inc/lib-content.php:288
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:25 ../inc/lib-content.php:509
+#: ../../xin/inc/lib-content.php:193
+#: ../../xin-magazine/inc/lib-content.php:288
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:27
+msgid "Blog Archives"
+msgstr ""
+
+#: ../author.php:17 ../inc/lib-content.php:482
+#: ../../xin/inc/lib-content.php:166
+#: ../../xin-magazine/inc/lib-content.php:258
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../author.php:28 ../inc/lib-content.php:87
+#: ../../xin/inc/lib-content.php:231
+#: ../../xin-magazine/inc/lib-content.php:189
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../category.php:23 ../inc/lib-content.php:489
+#: ../../xin/inc/lib-content.php:173
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../comments.php:16 ../../xin/comments.php:15
+#: ../../xin-magazine/comments.php:15
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:22 ../../xin/comments.php:21
+#: ../../xin-magazine/comments.php:21
+#, php-format
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../comments.php:28 ../comments.php:40
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:29 ../comments.php:41 ../../xin/comments.php:27
+#: ../../xin/comments.php:38 ../../xin-magazine/comments.php:27
+#: ../../xin-magazine/comments.php:38
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:30 ../comments.php:42 ../../xin/comments.php:28
+#: ../../xin/comments.php:39 ../../xin-magazine/comments.php:28
+#: ../../xin-magazine/comments.php:39
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-aside.php:19 ../content-image.php:20 ../content.php:26
+msgid ""
+"<span class=\"more-link btn btn-small\">read more<span class=\"meta-nav\"></"
+"span></span>"
+msgstr ""
+
+#: ../content-featured-blog.php:10 ../content-featured-blog.php:12
+#: ../content-featured-blog.php:20 ../content-featured-blog.php:25
+#: ../content-featured.php:11 ../content-featured.php:34
+#: ../content-featured.php:55 ../content-featured.php:72
+#: ../content-featured.php:81 ../content-featured.php:89
+#: ../content-summary.php:16 ../content-summary.php:29
+#: ../inc/lib-content.php:67 ../../xin/content-summary.php:16
+#: ../../xin/content-summary.php:29 ../../xin/inc/lib-content.php:118
+#: ../../xin-magazine/content-magazine.php:3
+#: ../../xin-magazine/content-magazine.php:9
+#: ../../xin-magazine/content-summary.php:16
+#: ../../xin-magazine/content-summary.php:29
+#: ../../xin-magazine/inc/lib-content.php:123
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../content-none.php:12 ../../xin/content-none.php:11
+#: ../../xin-magazine/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:17 ../../xin/content-none.php:16
+#: ../../xin-magazine/content-none.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:20 ../../xin/content-none.php:19
+#: ../../xin-magazine/content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:22 ../../xin/content-none.php:21
+#: ../../xin-magazine/content-none.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:23 ../content.php:31 ../image.php:84
+#: ../page-templates/fullscreen.php:25 ../../xin/content-page.php:15
+#: ../../xin/content.php:23 ../../xin/image.php:81
+#: ../../xin-magazine/content-page.php:20 ../../xin-magazine/content.php:23
+#: ../../xin-magazine/image.php:83
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:27 ../functions.php:239 ../functions.php:262
+#: ../functions.php:618 ../functions.php:638 ../image.php:32
+#: ../page-templates/fullscreen.php:28 ../../xin/content-page.php:19
+#: ../../xin/functions.php:180 ../../xin/functions.php:198
+#: ../../xin/image.php:29 ../../xin/xinwp/core-functions.php:321
+#: ../../xin/xinwp/core-functions.php:336
+#: ../../xin-magazine/content-page.php:24 ../../xin-magazine/functions.php:170
+#: ../../xin-magazine/functions.php:188 ../../xin-magazine/image.php:31
+#: ../../xin-magazine/xinwp/core-functions.php:321
+#: ../../xin-magazine/xinwp/core-functions.php:336
+msgid "[Edit]"
+msgstr ""
+
+#: ../footer-fixed.php:13 ../footer.php:26 ../../xin/footer.php:20
+#: ../../xin-magazine/footer.php:20
+msgid "&copy;"
+msgstr ""
+
+#: ../footer-fixed.php:17 ../footer.php:31
+msgid "Powered By "
+msgstr ""
+
+#: ../footer-fixed.php:18 ../footer.php:32
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../footer-fixed.php:18 ../footer.php:32
+msgid "WordPress"
+msgstr ""
+
+#: ../footer-fixed.php:19 ../footer.php:33
+msgid " | "
+msgstr ""
+
+#: ../footer-fixed.php:20 ../footer.php:34
+msgid "http://www.xinthemes.com/voyage/"
+msgstr ""
+
+#: ../footer-fixed.php:20 ../footer.php:34
+msgid "Voyage Theme by Stephen Cui"
+msgstr ""
+
+#: ../footer-fixed.php:20 ../footer.php:34
+msgid "Voyage Theme"
+msgstr ""
+
+#: ../footer-fixed.php:27 ../footer.php:37 ../../xin/footer.php:32
+#: ../../xin-magazine/footer.php:32
+msgid " TOP"
+msgstr ""
+
+#: ../functions.php:58 ../../xin/functions.php:13
+#: ../../xin-magazine/functions.php:22
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:59
+msgid "Section Menu"
+msgstr ""
+
+#: ../functions.php:60
+msgid "Subsection Menu"
+msgstr ""
+
+#: ../functions.php:61 ../../xin/functions.php:14
+#: ../../xin-magazine/functions.php:23
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:108 ../../xin/xinwp/core-functions.php:52
+#: ../../xin-magazine/xinwp/core-functions.php:52
+msgid "Logo"
+msgstr ""
+
+#: ../functions.php:176 ../../xin/xinwp/general.php:176
+#: ../../xin-magazine/content.php:22 ../../xin-magazine/xinwp/general.php:176
+msgid "read more"
+msgstr ""
+
+#: ../functions.php:239 ../../xin/xinwp/core-functions.php:321
+#: ../../xin-magazine/xinwp/core-functions.php:321
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:249
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../functions.php:252 ../../xin/xinwp/core-functions.php:338
+#: ../../xin-magazine/xinwp/core-functions.php:338
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:260 ../../xin/xinwp/core-functions.php:334
+#: ../../xin-magazine/xinwp/core-functions.php:334
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:290 ../functions.php:292
+#: ../../xin/xinwp/core-functions.php:77 ../../xin/xinwp/core-functions.php:79
+#: ../../xin-magazine/xinwp/core-functions.php:77
+#: ../../xin-magazine/xinwp/core-functions.php:79
+msgid "Blog Widget Area 1"
+msgstr ""
+
+#: ../functions.php:301 ../functions.php:303
+#: ../../xin/xinwp/core-functions.php:88 ../../xin/xinwp/core-functions.php:90
+#: ../../xin-magazine/xinwp/core-functions.php:88
+#: ../../xin-magazine/xinwp/core-functions.php:90
+msgid "Blog Widget Area 2"
+msgstr ""
+
+#: ../functions.php:311 ../../xin/xinwp/core-functions.php:67
+#: ../../xin-magazine/xinwp/core-functions.php:67
+msgid "Blog Widget Area (Full)"
+msgstr ""
+
+#: ../functions.php:313 ../../xin/xinwp/core-functions.php:69
+#: ../../xin-magazine/xinwp/core-functions.php:69
+msgid "Available for Left or Right sidebar layout."
+msgstr ""
+
+#: ../functions.php:322 ../functions.php:324
+#: ../../xin/xinwp/core-functions.php:99
+#: ../../xin/xinwp/core-functions.php:101
+#: ../../xin-magazine/xinwp/core-functions.php:99
+#: ../../xin-magazine/xinwp/core-functions.php:101
+msgid "Header Widget Area"
+msgstr ""
+
+#: ../functions.php:333 ../functions.php:335
+#: ../../xin/xinwp/core-functions.php:123
+#: ../../xin/xinwp/core-functions.php:125
+#: ../../xin-magazine/xinwp/core-functions.php:123
+#: ../../xin-magazine/xinwp/core-functions.php:125
+msgid "Home Widget Area 1"
+msgstr ""
+
+#: ../functions.php:342 ../functions.php:344
+#: ../../xin/xinwp/core-functions.php:132
+#: ../../xin/xinwp/core-functions.php:134
+#: ../../xin-magazine/xinwp/core-functions.php:132
+#: ../../xin-magazine/xinwp/core-functions.php:134
+msgid "Home Widget Area 2"
+msgstr ""
+
+#: ../functions.php:351 ../functions.php:353
+#: ../../xin/xinwp/core-functions.php:141
+#: ../../xin/xinwp/core-functions.php:143
+#: ../../xin-magazine/xinwp/core-functions.php:141
+#: ../../xin-magazine/xinwp/core-functions.php:143
+msgid "Home Widget Area 3"
+msgstr ""
+
+#: ../functions.php:360 ../functions.php:362
+#: ../../xin/xinwp/core-functions.php:150
+#: ../../xin/xinwp/core-functions.php:152
+#: ../../xin-magazine/xinwp/core-functions.php:150
+#: ../../xin-magazine/xinwp/core-functions.php:152
+msgid "Home Widget Area 4"
+msgstr ""
+
+#: ../functions.php:369 ../functions.php:371
+#: ../../xin/xinwp/core-functions.php:159
+#: ../../xin/xinwp/core-functions.php:161
+#: ../../xin-magazine/xinwp/core-functions.php:159
+#: ../../xin-magazine/xinwp/core-functions.php:161
+msgid "Home Widget Area 5"
+msgstr ""
+
+#: ../functions.php:380 ../functions.php:382
+#: ../../xin/xinwp/core-functions.php:172
+#: ../../xin/xinwp/core-functions.php:174
+#: ../../xin-magazine/xinwp/core-functions.php:172
+#: ../../xin-magazine/xinwp/core-functions.php:174
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: ../functions.php:390 ../functions.php:392
+#: ../../xin/xinwp/core-functions.php:182
+#: ../../xin/xinwp/core-functions.php:184
+#: ../../xin-magazine/xinwp/core-functions.php:182
+#: ../../xin-magazine/xinwp/core-functions.php:184
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: ../functions.php:400 ../functions.php:402
+#: ../../xin/xinwp/core-functions.php:192
+#: ../../xin/xinwp/core-functions.php:194
+#: ../../xin-magazine/xinwp/core-functions.php:192
+#: ../../xin-magazine/xinwp/core-functions.php:194
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: ../functions.php:410 ../functions.php:412
+#: ../../xin/xinwp/core-functions.php:202
+#: ../../xin/xinwp/core-functions.php:204
+#: ../../xin-magazine/xinwp/core-functions.php:202
+#: ../../xin-magazine/xinwp/core-functions.php:204
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: ../functions.php:420 ../functions.php:422
+#: ../../xin/xinwp/core-functions.php:111
+#: ../../xin/xinwp/core-functions.php:113
+#: ../../xin-magazine/xinwp/core-functions.php:111
+#: ../../xin-magazine/xinwp/core-functions.php:113
+msgid "Navigation Widget Area"
+msgstr ""
+
+#: ../functions.php:430 ../functions.php:432
+#: ../../xin/xinwp/core-functions.php:214
+#: ../../xin/xinwp/core-functions.php:216
+#: ../../xin-magazine/xinwp/core-functions.php:214
+#: ../../xin-magazine/xinwp/core-functions.php:216
+msgid "bbPress/BuddyPress Widget Area"
+msgstr ""
+
+#: ../functions.php:465
+msgid "Posted in "
+msgstr ""
+
+#: ../functions.php:475 ../../xin/functions.php:144
+#: ../../xin-magazine/functions.php:134
+msgid " &bull; "
+msgstr ""
+
+#: ../functions.php:480
+msgid "Tagged"
+msgstr ""
+
+#: ../functions.php:494 ../../xin/functions.php:105
+#: ../../xin-magazine/functions.php:94
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../functions.php:496
+msgid "By "
+msgstr ""
+
+#: ../functions.php:509 ../../xin/functions.php:134
+#: ../../xin-magazine/functions.php:124
+#, php-format
+msgid "<time class=\"entry-date\" datetime=\"%1$s\">%2$s</time>"
+msgstr ""
+
+#: ../functions.php:534 ../functions.php:635 ../../xin/functions.php:118
+#: ../../xin-magazine/functions.php:108
+msgid "1 Comment"
+msgstr ""
+
+#: ../functions.php:534 ../functions.php:635 ../../xin/functions.php:118
+#: ../../xin-magazine/functions.php:108
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:552 ../../xin/functions.php:159
+#: ../../xin-magazine/functions.php:149
+msgid "Featured "
+msgstr ""
+
+#: ../functions.php:614
+#, php-format
+msgid ""
+" <a href=\"%1$s\" title=\"Permalink to %2$s\" rel=\"bookmark\">Permalink</a>"
+msgstr ""
+
+#: ../functions.php:635
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:679
+msgid "Page"
+msgstr ""
+
+#: ../image.php:21 ../../xin/image.php:18 ../../xin-magazine/image.php:20
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span><span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../image.php:35 ../../xin/image.php:32 ../../xin-magazine/image.php:34
+msgid "Previous"
+msgstr ""
+
+#: ../image.php:36 ../../xin/image.php:33 ../../xin-magazine/image.php:35
+msgid "Next"
+msgstr ""
+
+#: ../search.php:21 ../inc/lib-content.php:477
+#: ../../xin/inc/lib-content.php:162
+#: ../../xin-magazine/inc/lib-content.php:254
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:11 ../searchform.php:12 ../searchform.php:13
+#: ../inc/lib-content.php:196 ../inc/lib-content.php:197
+#: ../../xin/searchform.php:10 ../../xin/searchform.php:11
+#: ../../xin-magazine/searchform.php:10 ../../xin-magazine/searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: ../single.php:18
+msgid "Post navigation"
+msgstr ""
+
+#: ../single.php:19 ../../xin/single.php:19 ../../xin-magazine/single.php:19
+msgid "<i class=\"icon-chevron-left\"></i>"
+msgstr ""
+
+#: ../single.php:20 ../../xin/single.php:20 ../../xin-magazine/single.php:20
+msgid "<i class=\"icon-chevron-right\"></i>"
+msgstr ""
+
+#: ../tag.php:23 ../inc/lib-content.php:497 ../../xin/inc/lib-content.php:181
+#: ../../xin-magazine/inc/lib-content.php:276
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../inc/lib-admin.php:16
+msgid "Template Options (Voyage)"
+msgstr ""
+
+#: ../inc/lib-admin.php:21 ../../xin/xinwp/core-admin.php:97
+#: ../../xin-magazine/xinwp/core-admin.php:97
+msgid "Post Category :"
+msgstr ""
+
+#: ../inc/lib-admin.php:28 ../../xin/xinwp/core-admin.php:104
+#: ../../xin-magazine/xinwp/core-admin.php:104
+msgid "Posts per page :"
+msgstr ""
+
+#: ../inc/lib-admin.php:35 ../../xin/xinwp/core-admin.php:111
+#: ../../xin-magazine/xinwp/core-admin.php:111
+msgid "Page Title :"
+msgstr ""
+
+#: ../inc/lib-admin.php:36 ../../xin/xinwp/core-admin.php:112
+#: ../../xin-magazine/xinwp/core-admin.php:112
+msgid "check to hide page title"
+msgstr ""
+
+#: ../inc/lib-admin.php:42 ../../xin/xinwp/core-admin.php:118
+#: ../../xin-magazine/xinwp/core-admin.php:118
+msgid "Sidebar :"
+msgstr ""
+
+#: ../inc/lib-admin.php:43 ../../xin/xinwp/core-admin.php:119
+#: ../../xin-magazine/xinwp/core-admin.php:119
+msgid "check to display sidebar"
+msgstr ""
+
+#: ../inc/lib-admin.php:49 ../inc/lib-admin.php:125
+#: ../../xin/xinwp/core-admin.php:125 ../../xin/xinwp/core-admin.php:201
+#: ../../xin-magazine/xinwp/core-admin.php:125
+#: ../../xin-magazine/xinwp/core-admin.php:201
+msgid "Layout :"
+msgstr ""
+
+#: ../inc/lib-admin.php:50 ../inc/theme-options.php:494
+#: ../inc/theme-options.php:500 ../inc/theme-options.php:734
+#: ../inc/theme-options.php:752 ../inc/theme-options.php:766
+#: ../../xin/inc/theme-options.php:99 ../../xin/inc/theme-options.php:143
+#: ../../xin/inc/theme-options.php:169 ../../xin/inc/theme-options.php:346
+#: ../../xin/inc/theme-options.php:352 ../../xin/xinwp/core-admin.php:126
+#: ../../xin-magazine/inc/theme-options.php:103
+#: ../../xin-magazine/inc/theme-options.php:147
+#: ../../xin-magazine/xinwp/core-admin.php:126
+msgid "Columns"
+msgstr ""
+
+#: ../inc/lib-admin.php:66 ../../xin/xinwp/core-admin.php:142
+#: ../../xin-magazine/xinwp/core-admin.php:142
+msgid "Image Size : "
+msgstr ""
+
+#: ../inc/lib-admin.php:74 ../../xin/xinwp/core-admin.php:150
+#: ../../xin-magazine/xinwp/core-admin.php:150
+msgid "Custom Size (Width) :"
+msgstr ""
+
+#: ../inc/lib-admin.php:81 ../../xin/xinwp/core-admin.php:157
+#: ../../xin-magazine/xinwp/core-admin.php:157
+msgid "Custom Size (Height) :"
+msgstr ""
+
+#: ../inc/lib-admin.php:88 ../../xin/xinwp/core-admin.php:164
+#: ../../xin-magazine/xinwp/core-admin.php:164
+msgid "Intro Text : <br />"
+msgstr ""
+
+#: ../inc/lib-admin.php:95 ../../xin/xinwp/core-admin.php:171
+#: ../../xin-magazine/xinwp/core-admin.php:171
+msgid "Excerpt<br />"
+msgstr ""
+
+#: ../inc/lib-admin.php:97 ../../xin/xinwp/core-admin.php:173
+#: ../../xin-magazine/xinwp/core-admin.php:173
+msgid "Content<br />"
+msgstr ""
+
+#: ../inc/lib-admin.php:99 ../../xin/xinwp/core-admin.php:175
+#: ../../xin-magazine/xinwp/core-admin.php:175
+msgid "None<br />"
+msgstr ""
+
+#: ../inc/lib-admin.php:103 ../../xin/xinwp/core-admin.php:179
+#: ../../xin-magazine/xinwp/core-admin.php:179
+msgid "Post Meta :"
+msgstr ""
+
+#: ../inc/lib-admin.php:104 ../../xin/xinwp/core-admin.php:180
+#: ../../xin-magazine/xinwp/core-admin.php:180
+msgid "check to display post meta"
+msgstr ""
+
+#: ../inc/lib-admin.php:120
+msgid "Voyage Post Options"
+msgstr ""
+
+#: ../inc/lib-admin.php:138 ../../xin/xinwp/core-admin.php:222
+#: ../../xin-magazine/xinwp/core-admin.php:222
+msgid "Read More Label :"
+msgstr ""
+
+#: ../inc/lib-admin.php:188 ../inc/theme-options.php:623
+#: ../inc/widgets.php:200 ../../xin/xinwp/core-admin.php:273
+#: ../../xin/xinwp/options.php:119 ../../xin/xinwp/widgets.php:190
+#: ../../xin-magazine/xinwp/core-admin.php:273
+#: ../../xin-magazine/xinwp/options.php:119
+#: ../../xin-magazine/xinwp/widgets.php:190
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/lib-content.php:14
+msgid "Skip to content"
+msgstr ""
+
+#: ../inc/lib-content.php:90 ../../xin/inc/lib-content.php:234
+#: ../../xin-magazine/inc/lib-content.php:192
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\"></span>"
+msgstr ""
+
+#: ../inc/lib-content.php:353 ../inc/widgets.php:408
+#: ../../xin/xinwp/widgets.php:373 ../../xin-magazine/xinwp/widgets.php:373
+msgid "Categories"
+msgstr ""
+
+#: ../inc/lib-content.php:354 ../inc/widgets.php:410
+#: ../../xin/xinwp/widgets.php:375 ../../xin-magazine/xinwp/widgets.php:375
+msgid "Archives"
+msgstr ""
+
+#: ../inc/lib-content.php:355 ../inc/widgets.php:414
+#: ../../xin/xinwp/widgets.php:379 ../../xin-magazine/xinwp/widgets.php:379
+msgid "Tags"
+msgstr ""
+
+#: ../inc/lib-content.php:388
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/lib-function.php:23 ../../xin/xinwp/core-functions.php:275
+#: ../../xin-magazine/xinwp/core-functions.php:275
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/lib-function.php:208
+msgid "Follow Us"
+msgstr ""
+
+#: ../inc/lib-function.php:224
+msgid "Hello, World!"
+msgstr ""
+
+#: ../inc/lib-function.php:225
+msgid ""
+"This is your landing page. The headline, tagline and media content can be "
+"changed in theme options."
+msgstr ""
+
+#: ../inc/lib-function.php:227 ../inc/lib-function.php:236
+#: ../../xin/pages/featured.php:43 ../../xin-magazine/pages/magazine.php:46
+msgid "Learn More"
+msgstr ""
+
+#: ../inc/lib-function.php:613
+msgid "Name"
+msgstr ""
+
+#: ../inc/lib-function.php:615
+msgid "email"
+msgstr ""
+
+#: ../inc/lib-function.php:617
+msgid "Website"
+msgstr ""
+
+#: ../inc/lib-function.php:624
+msgid "Name and email are required."
+msgstr ""
+
+#: ../inc/lib-function.php:624
+msgid " Your email address will not be published."
+msgstr ""
+
+#: ../inc/lib-general.php:13 ../inc/theme-options.php:170
+#: ../inc/widgets.php:212 ../../xin/xinwp/general.php:41
+#: ../../xin/xinwp/widgets.php:202 ../../xin-magazine/xinwp/general.php:41
+#: ../../xin-magazine/xinwp/widgets.php:202
+msgid "None"
+msgstr ""
+
+#: ../inc/lib-general.php:15 ../scheme/scheme.php:15
+#: ../../xin/scheme/scheme.php:14 ../../xin/xinwp/core-admin.php:208
+#: ../../xin-magazine/scheme/scheme.php:14
+#: ../../xin-magazine/xinwp/core-admin.php:208
+msgid "Default"
+msgstr ""
+
+#: ../inc/lib-general.php:17 ../../xin/xinwp/general.php:31
+#: ../../xin-magazine/xinwp/general.php:31
+msgid "Thumbnail"
+msgstr ""
+
+#: ../inc/lib-general.php:19 ../../xin/xinwp/general.php:33
+#: ../../xin-magazine/xinwp/general.php:33
+msgid "Medium"
+msgstr ""
+
+#: ../inc/lib-general.php:21 ../../xin/xinwp/general.php:35
+#: ../../xin-magazine/xinwp/general.php:35
+msgid "Large"
+msgstr ""
+
+#: ../inc/lib-general.php:23 ../../xin/xinwp/general.php:37
+#: ../../xin-magazine/xinwp/general.php:37
+msgid "Full"
+msgstr ""
+
+#: ../inc/lib-general.php:25 ../../xin/xinwp/general.php:39
+#: ../../xin-magazine/xinwp/general.php:39
+msgid "Custom"
+msgstr ""
+
+#: ../inc/lib-general.php:42 ../../xin/xinwp/general.php:74
+#: ../../xin-magazine/xinwp/general.php:74
+msgid "post"
+msgstr ""
+
+#: ../inc/lib-general.php:44 ../../xin/xinwp/general.php:76
+#: ../../xin-magazine/xinwp/general.php:76
+msgid "page"
+msgstr ""
+
+#: ../inc/social.php:14
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/social.php:18
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/social.php:22
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/social.php:26
+msgid "Google+"
+msgstr ""
+
+#: ../inc/social.php:30
+msgid "YouTube"
+msgstr ""
+
+#: ../inc/social.php:34
+msgid "Vimeo"
+msgstr ""
+
+#: ../inc/social.php:38
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/social.php:42
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/social.php:46
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/social.php:50
+msgid "About Me"
+msgstr ""
+
+#: ../inc/social.php:54
+msgid "Stumbleupon"
+msgstr ""
+
+#: ../inc/social.php:58
+msgid "RSS Feed"
+msgstr ""
+
+#: ../inc/theme-options.php:41 ../../xin/inc/theme-options.php:34
+#: ../../xin-magazine/inc/theme-options.php:34
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/theme-options.php:57 ../../xin/inc/theme-options.php:79
+#: ../../xin-magazine/inc/theme-options.php:83
+msgid "Grid Width"
+msgstr ""
+
+#: ../inc/theme-options.php:59 ../inc/theme-options.php:183
+#: ../inc/theme-options.php:221 ../../xin/inc/theme-options.php:81
+#: ../../xin-magazine/inc/theme-options.php:85
+msgid "Pixels"
+msgstr ""
+
+#: ../inc/theme-options.php:63
+msgid "Grid Column"
+msgstr ""
+
+#: ../inc/theme-options.php:67
+msgid "12 Columns"
+msgstr ""
+
+#: ../inc/theme-options.php:69
+msgid "16 Columns"
+msgstr ""
+
+#: ../inc/theme-options.php:74
+msgid "Grid Style"
+msgstr ""
+
+#: ../inc/theme-options.php:78
+msgid "Fluid"
+msgstr ""
+
+#: ../inc/theme-options.php:80
+msgid "Fixed"
+msgstr ""
+
+#: ../inc/theme-options.php:85
+msgid "Mobile Style"
+msgstr ""
+
+#: ../inc/theme-options.php:89
+msgid "Responsive"
+msgstr ""
+
+#: ../inc/theme-options.php:91
+msgid "Static"
+msgstr ""
+
+#: ../inc/theme-options.php:97 ../../xin/inc/theme-options.php:175
+#: ../../xin-magazine/inc/theme-options.php:153
+msgid "Home Page Style"
+msgstr ""
+
+#: ../inc/theme-options.php:101 ../../xin/inc/theme-options.php:179
+#: ../../xin-magazine/inc/theme-options.php:157
+msgid "Featured Home"
+msgstr ""
+
+#: ../inc/theme-options.php:103 ../inc/theme-options.php:792
+msgid "Landing Page"
+msgstr ""
+
+#: ../inc/theme-options.php:105
+msgid "Blog Full Posts"
+msgstr ""
+
+#: ../inc/theme-options.php:107
+msgid "Blog Summaries"
+msgstr ""
+
+#: ../inc/theme-options.php:109 ../inc/theme-options.php:801
+msgid "Featured Blog"
+msgstr ""
+
+#: ../inc/theme-options.php:114
+msgid "Featured Image Style"
+msgstr ""
+
+#: ../inc/theme-options.php:119 ../inc/theme-options.php:285
+#: ../inc/theme-options.php:330
+msgid "Normal"
+msgstr ""
+
+#: ../inc/theme-options.php:121
+msgid "Centered"
+msgstr ""
+
+#: ../inc/theme-options.php:123
+msgid "Full Screen"
+msgstr ""
+
+#: ../inc/theme-options.php:130
+msgid "H1 Headline"
+msgstr ""
+
+#: ../inc/theme-options.php:135
+msgid "Tag lines"
+msgstr ""
+
+#: ../inc/theme-options.php:141
+msgid "Media Content"
+msgstr ""
+
+#: ../inc/theme-options.php:144
+msgid "Use HTML or shortcode to add content."
+msgstr ""
+
+#: ../inc/theme-options.php:148
+msgid "Action Button"
+msgstr ""
+
+#: ../inc/theme-options.php:150
+msgid "Label for action button on Landing Page."
+msgstr ""
+
+#: ../inc/theme-options.php:154
+msgid "Action URL"
+msgstr ""
+
+#: ../inc/theme-options.php:160
+msgid "Carousel Interval"
+msgstr ""
+
+#: ../inc/theme-options.php:162
+msgid "Seconds"
+msgstr ""
+
+#: ../inc/theme-options.php:166
+msgid "Carousel Transition Effect"
+msgstr ""
+
+#: ../inc/theme-options.php:172 ../../xin/inc/theme-options.php:201
+#: ../../xin-magazine/inc/theme-options.php:179
+msgid "Slide"
+msgstr ""
+
+#: ../inc/theme-options.php:174 ../../xin/inc/theme-options.php:203
+#: ../../xin-magazine/inc/theme-options.php:181
+msgid "Fade"
+msgstr ""
+
+#: ../inc/theme-options.php:176
+msgid ""
+"For better fading effect, make sure interval is greater than 7 seconds. The "
+"transition effects are not supported in IE."
+msgstr ""
+
+#: ../inc/theme-options.php:181 ../inc/theme-options.php:219
+msgid "Carousel Height"
+msgstr ""
+
+#: ../inc/theme-options.php:184 ../inc/theme-options.php:222
+msgid "Enter 0 to adjust height automatically."
+msgstr ""
+
+#: ../inc/theme-options.php:188
+msgid "Number of Posts"
+msgstr ""
+
+#: ../inc/theme-options.php:193 ../inc/widgets.php:464
+#: ../../xin/xinwp/widgets.php:429 ../../xin-magazine/xinwp/widgets.php:429
+msgid "Category"
+msgstr ""
+
+#: ../inc/theme-options.php:198
+msgid "Sticky Posts Only?"
+msgstr ""
+
+#: ../inc/theme-options.php:199
+msgid "Check to display sticky posts only."
+msgstr ""
+
+#: ../inc/theme-options.php:205
+msgid "Headline Banner"
+msgstr ""
+
+#: ../inc/theme-options.php:206
+msgid "Check to display H1 headline and tagline below Carousel."
+msgstr ""
+
+#: ../inc/theme-options.php:211
+msgid "Read More Button"
+msgstr ""
+
+#: ../inc/theme-options.php:213
+msgid "Label for action button on Featured Posts."
+msgstr ""
+
+#: ../inc/theme-options.php:227
+msgid "Fixed Top Menu"
+msgstr ""
+
+#: ../inc/theme-options.php:228
+msgid "Check to fix the top menu."
+msgstr ""
+
+#: ../inc/theme-options.php:233
+msgid "Responsive Top Menu"
+msgstr ""
+
+#: ../inc/theme-options.php:234
+msgid "Check to have responsive top menu."
+msgstr ""
+
+#: ../inc/theme-options.php:239
+msgid "Logo/Header Image Position"
+msgstr ""
+
+#: ../inc/theme-options.php:243
+msgid "Inside Nav Bar"
+msgstr ""
+
+#: ../inc/theme-options.php:245
+msgid "Above Nav Bar"
+msgstr ""
+
+#: ../inc/theme-options.php:247
+msgid "Inside Top Menu"
+msgstr ""
+
+#: ../inc/theme-options.php:249
+msgid ""
+"If Logo is above navigation bar, site title & descriptio will NOT be "
+"displayed. Prefered size is 300 x 100."
+msgstr ""
+
+#: ../inc/theme-options.php:254
+msgid "Search Form"
+msgstr ""
+
+#: ../inc/theme-options.php:258
+msgid "Inside Navigation Bar"
+msgstr ""
+
+#: ../inc/theme-options.php:260
+msgid "Above Navigation Bar"
+msgstr ""
+
+#: ../inc/theme-options.php:262
+msgid "Display on phone only"
+msgstr ""
+
+#: ../inc/theme-options.php:264
+msgid "Hide"
+msgstr ""
+
+#: ../inc/theme-options.php:269
+msgid "Inverted Navigation Bar"
+msgstr ""
+
+#: ../inc/theme-options.php:275
+msgid "Remove Navigation Bar"
+msgstr ""
+
+#: ../inc/theme-options.php:281
+msgid "Header Style"
+msgstr ""
+
+#: ../inc/theme-options.php:287
+msgid "Right Navigation Menu"
+msgstr ""
+
+#: ../inc/theme-options.php:289
+msgid "Top Menu Only"
+msgstr ""
+
+#: ../inc/theme-options.php:295
+msgid "Prettify"
+msgstr ""
+
+#: ../inc/theme-options.php:296
+msgid "Uncheck to disable code prettifier"
+msgstr ""
+
+#: ../inc/theme-options.php:301
+msgid "ColorBox"
+msgstr ""
+
+#: ../inc/theme-options.php:302
+msgid "Uncheck to disable the Colorbox JQuery Plugin"
+msgstr ""
+
+#: ../inc/theme-options.php:308
+msgid "Title Position"
+msgstr ""
+
+#: ../inc/theme-options.php:310
+msgid "Check to display Titles in header"
+msgstr ""
+
+#: ../inc/theme-options.php:314
+msgid "Show Author?"
+msgstr ""
+
+#: ../inc/theme-options.php:316
+msgid "Check to display Author Name or Biographical Info"
+msgstr ""
+
+#: ../inc/theme-options.php:320
+msgid "Show Date?"
+msgstr ""
+
+#: ../inc/theme-options.php:322
+msgid "Check to display date"
+msgstr ""
+
+#: ../inc/theme-options.php:326
+msgid "Date Style"
+msgstr ""
+
+#: ../inc/theme-options.php:332
+msgid "Mac Like"
+msgstr ""
+
+#: ../inc/theme-options.php:337
+msgid "Suppress \"Comments Closed\""
+msgstr ""
+
+#: ../inc/theme-options.php:338
+msgid "Check to suppress the message."
+msgstr ""
+
+#: ../inc/theme-options.php:343
+msgid "Page Comment Form"
+msgstr ""
+
+#: ../inc/theme-options.php:344 ../inc/theme-options.php:350
+msgid "Check to disable the comment form."
+msgstr ""
+
+#: ../inc/theme-options.php:349
+msgid "Post Comment Form"
+msgstr ""
+
+#: ../inc/theme-options.php:356 ../../xin/inc/theme-options.php:236
+#: ../../xin-magazine/inc/theme-options.php:228
+msgid "Color Scheme"
+msgstr ""
+
+#: ../inc/theme-options.php:370 ../inc/theme-options.php:380
+#: ../inc/theme-options.php:390
+msgid "16x16"
+msgstr ""
+
+#: ../inc/theme-options.php:371 ../inc/theme-options.php:381
+#: ../inc/theme-options.php:391
+msgid "24x24"
+msgstr ""
+
+#: ../inc/theme-options.php:372 ../inc/theme-options.php:382
+#: ../inc/theme-options.php:392
+msgid "32x32"
+msgstr ""
+
+#: ../inc/theme-options.php:398 ../../xin/inc/theme-options.php:267
+#: ../../xin-magazine/inc/theme-options.php:259
+msgid "Body / Paragraph"
+msgstr ""
+
+#: ../inc/theme-options.php:404 ../../xin/inc/theme-options.php:273
+#: ../../xin-magazine/inc/theme-options.php:265
+msgid "Site Title"
+msgstr ""
+
+#: ../inc/theme-options.php:410 ../../xin/inc/theme-options.php:279
+#: ../../xin-magazine/inc/theme-options.php:271
+msgid "Site Description"
+msgstr ""
+
+#: ../inc/theme-options.php:416 ../../xin/inc/theme-options.php:285
+#: ../../xin-magazine/inc/theme-options.php:277
+msgid "Post/Page Title"
+msgstr ""
+
+#: ../inc/theme-options.php:422 ../../xin/inc/theme-options.php:291
+#: ../../xin-magazine/inc/theme-options.php:283
+msgid "Heading (H1 - H6)"
+msgstr ""
+
+#: ../inc/theme-options.php:428 ../../xin/inc/theme-options.php:297
+#: ../../xin-magazine/inc/theme-options.php:289
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/theme-options.php:434 ../../xin/inc/theme-options.php:303
+#: ../../xin-magazine/inc/theme-options.php:295
+msgid "Widget Title"
+msgstr ""
+
+#: ../inc/theme-options.php:440 ../../xin/inc/theme-options.php:309
+#: ../../xin-magazine/inc/theme-options.php:301
+msgid "Footer"
+msgstr ""
+
+#: ../inc/theme-options.php:446 ../../xin/inc/theme-options.php:315
+#: ../../xin-magazine/inc/theme-options.php:307
+msgid "Main Menu"
+msgstr ""
+
+#: ../inc/theme-options.php:453 ../../xin/inc/theme-options.php:322
+#: ../../xin-magazine/inc/theme-options.php:314
+msgid "Google Font 1"
+msgstr ""
+
+#: ../inc/theme-options.php:458 ../../xin/inc/theme-options.php:327
+#: ../../xin-magazine/inc/theme-options.php:319
+msgid "Google Font 2"
+msgstr ""
+
+#: ../inc/theme-options.php:463 ../../xin/inc/theme-options.php:332
+#: ../../xin-magazine/inc/theme-options.php:324
+msgid "Google Font 3"
+msgstr ""
+
+#: ../inc/theme-options.php:468 ../../xin/inc/theme-options.php:337
+#: ../../xin-magazine/inc/theme-options.php:329
+msgid "Google Font 4"
+msgstr ""
+
+#: ../inc/theme-options.php:475 ../../xin/inc/theme-options.php:115
+#: ../../xin-magazine/inc/theme-options.php:119
+msgid "Responsive Sidebar"
+msgstr ""
+
+#: ../inc/theme-options.php:477 ../../xin/inc/theme-options.php:117
+#: ../../xin-magazine/inc/theme-options.php:121
+msgid ""
+"Check to activate responsive sidebars when screen width below breakpoints"
+msgstr ""
+
+#: ../inc/theme-options.php:481 ../../xin/inc/theme-options.php:121
+#: ../../xin-magazine/inc/theme-options.php:125
+msgid "Responsive Sidebar Breakpoint"
+msgstr ""
+
+#: ../inc/theme-options.php:483 ../../xin/inc/theme-options.php:123
+#: ../../xin-magazine/inc/theme-options.php:127
+msgid "minimum 960 pixels"
+msgstr ""
+
+#: ../inc/theme-options.php:492 ../../xin/inc/theme-options.php:344
+msgid "Content Width"
+msgstr ""
+
+#: ../inc/theme-options.php:498 ../../xin/inc/theme-options.php:350
+msgid "Sidebar Width"
+msgstr ""
+
+#: ../inc/theme-options.php:504 ../inc/theme-options.php:708
+#: ../../xin/inc/theme-options.php:104 ../../xin/inc/theme-options.php:356
+#: ../../xin-magazine/inc/theme-options.php:108
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../inc/theme-options.php:507 ../../xin/inc/theme-options.php:108
+#: ../../xin/inc/theme-options.php:359
+#: ../../xin-magazine/inc/theme-options.php:112
+msgid "Left "
+msgstr ""
+
+#: ../inc/theme-options.php:508 ../../xin/inc/theme-options.php:107
+#: ../../xin/inc/theme-options.php:360
+#: ../../xin-magazine/inc/theme-options.php:111
+msgid "Right "
+msgstr ""
+
+#: ../inc/theme-options.php:645 ../../xin/xinwp/options.php:136
+#: ../../xin-magazine/xinwp/options.php:136
+msgid "Not Availavle Yet"
+msgstr ""
+
+#: ../inc/theme-options.php:661
+msgid "Voyage Theme Options"
+msgstr ""
+
+#: ../inc/theme-options.php:663 ../../xin/inc/theme-options.php:386
+#: ../../xin-magazine/inc/theme-options.php:356
+msgid "Options Saved"
+msgstr ""
+
+#: ../inc/theme-options.php:665
+msgid "http://www.xinthemes.com/docs/"
+msgstr ""
+
+#: ../inc/theme-options.php:665 ../../xin/inc/theme-options.php:388
+#: ../../xin-magazine/inc/theme-options.php:358
+msgid "Documentation"
+msgstr ""
+
+#: ../inc/theme-options.php:666
+msgid "http://www.xinthemes.com/voyage-change-log/"
+msgstr ""
+
+#: ../inc/theme-options.php:666 ../../xin/inc/theme-options.php:389
+msgid "Change Log"
+msgstr ""
+
+#: ../inc/theme-options.php:667
+msgid "http://www.xinthemes.com/support/"
+msgstr ""
+
+#: ../inc/theme-options.php:667 ../../xin/inc/theme-options.php:390
+#: ../../xin-magazine/inc/theme-options.php:359
+msgid "Support Forum"
+msgstr ""
+
+#: ../inc/theme-options.php:668
+msgid "http://www.xinthemes.com/donate/"
+msgstr ""
+
+#: ../inc/theme-options.php:668 ../../xin/inc/theme-options.php:391
+#: ../../xin-magazine/inc/theme-options.php:360
+msgid "Donate"
+msgstr ""
+
+#: ../inc/theme-options.php:677 ../inc/theme-options.php:1012
+#: ../../xin/inc/theme-options.php:401 ../../xin/inc/theme-options.php:552
+#: ../../xin-magazine/inc/theme-options.php:370
+#: ../../xin-magazine/inc/theme-options.php:541
+msgid "Save Options"
+msgstr ""
+
+#: ../inc/theme-options.php:679 ../../xin/inc/theme-options.php:403
+#: ../../xin-magazine/inc/theme-options.php:372
+msgid "Layout"
+msgstr ""
+
+#: ../inc/theme-options.php:680 ../../xin/inc/theme-options.php:457
+#: ../../xin-magazine/inc/theme-options.php:414
+msgid "Home Page"
+msgstr ""
+
+#: ../inc/theme-options.php:681
+msgid "Header"
+msgstr ""
+
+#: ../inc/theme-options.php:682
+msgid "Post"
+msgstr ""
+
+#: ../inc/theme-options.php:683 ../../xin/inc/theme-options.php:404
+#: ../../xin-magazine/inc/theme-options.php:374
+msgid "Scheme"
+msgstr ""
+
+#: ../inc/theme-options.php:684
+msgid "Social"
+msgstr ""
+
+#: ../inc/theme-options.php:685
+msgid "Addon"
+msgstr ""
+
+#: ../inc/theme-options.php:686 ../../xin/inc/theme-options.php:405
+#: ../../xin-magazine/inc/theme-options.php:375
+msgid "Fonts"
+msgstr ""
+
+#: ../inc/theme-options.php:687 ../../xin/inc/theme-options.php:407
+#: ../../xin-magazine/inc/theme-options.php:376
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/theme-options.php:697
+msgid "Site Layout"
+msgstr ""
+
+#: ../inc/theme-options.php:705
+msgid "Blog Layout"
+msgstr ""
+
+#: ../inc/theme-options.php:712 ../../xin/inc/theme-options.php:230
+#: ../../xin-magazine/inc/theme-options.php:216
+msgid "Right"
+msgstr ""
+
+#: ../inc/theme-options.php:717 ../../xin/inc/theme-options.php:228
+#: ../../xin-magazine/inc/theme-options.php:214
+msgid "Left"
+msgstr ""
+
+#: ../inc/theme-options.php:722
+msgid "Left & Right"
+msgstr ""
+
+#: ../inc/theme-options.php:728
+msgid "Width in Column(s)"
+msgstr ""
+
+#: ../inc/theme-options.php:735
+msgid ""
+"Note: For Left & Right layout, make sure total number of columns is equal to "
+"Grid Column."
+msgstr ""
+
+#: ../inc/theme-options.php:742
+msgid "Home Widget Area"
+msgstr ""
+
+#: ../inc/theme-options.php:744
+msgid "Widths of Home Widget Areas"
+msgstr ""
+
+#: ../inc/theme-options.php:757
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../inc/theme-options.php:759
+msgid "Widths of Footer Widget Areas"
+msgstr ""
+
+#: ../inc/theme-options.php:781
+msgid "Featured Home Page"
+msgstr ""
+
+#: ../inc/theme-options.php:821
+msgid "Current Logo/Header Image"
+msgstr ""
+
+#: ../inc/theme-options.php:823
+msgid "Replace or remove the logo?"
+msgstr ""
+
+#: ../inc/theme-options.php:823 ../../xin/inc/theme-options.php:476
+#: ../../xin-magazine/inc/theme-options.php:480
+#, php-format
+msgid "<a href=\"%s\">Click here</a>."
+msgstr ""
+
+#: ../inc/theme-options.php:839
+msgid "Post Meta"
+msgstr ""
+
+#: ../inc/theme-options.php:868
+msgid "Display Social Links\t"
+msgstr ""
+
+#: ../inc/theme-options.php:871
+msgid "On Top"
+msgstr ""
+
+#: ../inc/theme-options.php:872 ../inc/theme-options.php:876
+#: ../inc/theme-options.php:880
+msgid "&nbsp;<strong>Icon Set :</strong>"
+msgstr ""
+
+#: ../inc/theme-options.php:875
+msgid "Above Sidebar"
+msgstr ""
+
+#: ../inc/theme-options.php:879
+msgid "At Bottom"
+msgstr ""
+
+#: ../inc/theme-options.php:884
+msgid "Catch Words"
+msgstr ""
+
+#: ../inc/theme-options.php:889
+msgid "URLs"
+msgstr ""
+
+#: ../inc/theme-options.php:907
+msgid "Social Sharing"
+msgstr ""
+
+#: ../inc/theme-options.php:909
+msgid "Jetpack Sharing"
+msgstr ""
+
+#: ../inc/theme-options.php:913
+msgid "Check to integrate Jetpack Sharing"
+msgstr ""
+
+#: ../inc/theme-options.php:917
+msgid "Location on Single Post/Page"
+msgstr ""
+
+#: ../inc/theme-options.php:921 ../inc/theme-options.php:931
+msgid "Top"
+msgstr ""
+
+#: ../inc/theme-options.php:923 ../inc/theme-options.php:933
+msgid "Bottom"
+msgstr ""
+
+#: ../inc/theme-options.php:927
+msgid "Location on Post Summary/Archive"
+msgstr ""
+
+#: ../inc/theme-options.php:948 ../../xin/inc/theme-options.php:523
+msgid "bbPress/BuddyPress Options"
+msgstr ""
+
+#: ../inc/theme-options.php:962 ../../xin/inc/theme-options.php:490
+#: ../../xin-magazine/inc/theme-options.php:494
+msgid ""
+"You do not need to select font for each element. For example. Body, "
+"paragraph and heading define the general fonts used. <span style=\"color:"
+"blue;font-weight:bold;\">Please note that blue indicates webfonts (e.g "
+"Google Fonts) which may require additional load time.</span>"
+msgstr ""
+
+#: ../inc/theme-options.php:980 ../../xin/inc/theme-options.php:508
+#: ../../xin-magazine/inc/theme-options.php:512
+msgid "Additional Google Fonts"
+msgstr ""
+
+#: ../inc/theme-options.php:996 ../../xin/inc/theme-options.php:366
+#: ../../xin-magazine/inc/theme-options.php:336
+msgid "Custom CSS Style"
+msgstr ""
+
+#: ../inc/widgets.php:13
+msgid "(Voyage) Recent Posts"
+msgstr ""
+
+#: ../inc/widgets.php:16 ../../xin/xinwp/widgets.php:20
+#: ../../xin-magazine/xinwp/widgets.php:20
+msgid "Use this widget to list your recent post summary."
+msgstr ""
+
+#: ../inc/widgets.php:195 ../inc/widgets.php:447 ../inc/widgets.php:609
+#: ../inc/widgets.php:817 ../../xin/xinwp/widgets.php:185
+#: ../../xin/xinwp/widgets.php:412 ../../xin-magazine/xinwp/widgets.php:185
+#: ../../xin-magazine/xinwp/widgets.php:412
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets.php:196 ../../xin/xinwp/widgets.php:186
+#: ../../xin-magazine/xinwp/widgets.php:186
+msgid "Post Type:"
+msgstr ""
+
+#: ../inc/widgets.php:197 ../../xin/xinwp/widgets.php:187
+#: ../../xin-magazine/xinwp/widgets.php:187
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../inc/widgets.php:198 ../../xin/xinwp/widgets.php:188
+#: ../../xin-magazine/xinwp/widgets.php:188
+msgid "Random Posts"
+msgstr ""
+
+#: ../inc/widgets.php:199 ../../xin/xinwp/widgets.php:189
+#: ../../xin-magazine/xinwp/widgets.php:189
+msgid "No of Columns (1-4):"
+msgstr ""
+
+#: ../inc/widgets.php:200 ../../xin/xinwp/widgets.php:190
+#: ../../xin-magazine/xinwp/widgets.php:190
+msgid "Category:"
+msgstr ""
+
+#: ../inc/widgets.php:201 ../../xin/xinwp/widgets.php:191
+#: ../../xin-magazine/xinwp/widgets.php:191
+msgid "Include sticky posts in the category"
+msgstr ""
+
+#: ../inc/widgets.php:202 ../../xin/xinwp/widgets.php:192
+#: ../../xin-magazine/xinwp/widgets.php:192
+msgid "Thumbnail:"
+msgstr ""
+
+#: ../inc/widgets.php:204 ../../xin/xinwp/widgets.php:194
+#: ../../xin-magazine/xinwp/widgets.php:194
+msgid "Custom size: "
+msgstr ""
+
+#: ../inc/widgets.php:204 ../../xin/xinwp/widgets.php:194
+#: ../../xin-magazine/xinwp/widgets.php:194
+msgid " x "
+msgstr ""
+
+#: ../inc/widgets.php:205 ../../xin/xinwp/widgets.php:195
+#: ../../xin-magazine/xinwp/widgets.php:195
+msgid "Intro Text: "
+msgstr ""
+
+#: ../inc/widgets.php:208 ../../xin/xinwp/widgets.php:198
+#: ../../xin-magazine/xinwp/widgets.php:198
+msgid "Excerpt"
+msgstr ""
+
+#: ../inc/widgets.php:210 ../../xin/inc/theme-options.php:85
+#: ../../xin/xinwp/widgets.php:200 ../../xin-magazine/inc/theme-options.php:89
+#: ../../xin-magazine/xinwp/widgets.php:200
+msgid "Content"
+msgstr ""
+
+#: ../inc/widgets.php:215 ../../xin/xinwp/widgets.php:204
+#: ../../xin-magazine/xinwp/widgets.php:204
+msgid "Display post meta"
+msgstr ""
+
+#: ../inc/widgets.php:216 ../../xin/xinwp/widgets.php:205
+#: ../../xin-magazine/xinwp/widgets.php:205
+msgid "Single category link : "
+msgstr ""
+
+#: ../inc/widgets.php:217 ../../xin/xinwp/widgets.php:206
+#: ../../xin-magazine/xinwp/widgets.php:206
+msgid "Custom Query:"
+msgstr ""
+
+#: ../inc/widgets.php:225
+msgid "(Voyage) Navigation Tabs"
+msgstr ""
+
+#: ../inc/widgets.php:228 ../../xin/xinwp/widgets.php:217
+#: ../../xin-magazine/xinwp/widgets.php:217
+msgid "Tabbed navigation."
+msgstr ""
+
+#: ../inc/widgets.php:412 ../../xin/xinwp/widgets.php:377
+#: ../../xin-magazine/xinwp/widgets.php:377
+msgid "Latest"
+msgstr ""
+
+#: ../inc/widgets.php:416 ../inc/widgets.php:516
+#: ../../xin/xinwp/widgets.php:381 ../../xin/xinwp/widgets.php:481
+#: ../../xin-magazine/xinwp/widgets.php:381
+#: ../../xin-magazine/xinwp/widgets.php:481
+msgid "Menu"
+msgstr ""
+
+#: ../inc/widgets.php:419 ../inc/widgets.php:530
+#: ../../xin/xinwp/widgets.php:384 ../../xin/xinwp/widgets.php:495
+#: ../../xin-magazine/xinwp/widgets.php:384
+#: ../../xin-magazine/xinwp/widgets.php:495
+msgid "Text"
+msgstr ""
+
+#: ../inc/widgets.php:477 ../../xin/xinwp/widgets.php:442
+#: ../../xin-magazine/xinwp/widgets.php:442
+msgid "Archive"
+msgstr ""
+
+#: ../inc/widgets.php:490 ../../xin/xinwp/widgets.php:455
+#: ../../xin-magazine/xinwp/widgets.php:455
+msgid "Recent"
+msgstr ""
+
+#: ../inc/widgets.php:503 ../../xin/xinwp/widgets.php:468
+#: ../../xin-magazine/xinwp/widgets.php:468
+msgid "Tag"
+msgstr ""
+
+#: ../inc/widgets.php:518 ../../xin/xinwp/widgets.php:483
+#: ../../xin-magazine/xinwp/widgets.php:483
+msgid "Menu:"
+msgstr ""
+
+#: ../inc/widgets.php:518 ../../xin/xinwp/widgets.php:483
+#: ../../xin-magazine/xinwp/widgets.php:483
+msgid "Select Menu"
+msgstr ""
+
+#: ../inc/widgets.php:539 ../../xin/xinwp/widgets.php:504
+#: ../../xin-magazine/xinwp/widgets.php:504
+msgid "Post/Line Limits"
+msgstr ""
+
+#: ../inc/widgets.php:540 ../../xin/xinwp/widgets.php:505
+#: ../../xin-magazine/xinwp/widgets.php:505
+msgid "Show Post Counts"
+msgstr ""
+
+#: ../inc/widgets.php:541 ../../xin/xinwp/widgets.php:506
+#: ../../xin-magazine/xinwp/widgets.php:506
+msgid "Text:"
+msgstr ""
+
+#: ../inc/widgets.php:550
+msgid "(Voyage) Social"
+msgstr ""
+
+#: ../inc/widgets.php:553
+msgid "Display social links as widget"
+msgstr ""
+
+#: ../inc/widgets.php:610
+msgid "Drag available Socials to the right"
+msgstr ""
+
+#: ../inc/widgets.php:670
+msgid "Choose"
+msgstr ""
+
+#: ../inc/widgets.php:672
+msgid "Remove"
+msgstr ""
+
+#: ../inc/widgets.php:742
+msgid "(Voyage) Marketing"
+msgstr ""
+
+#: ../inc/widgets.php:745
+msgid "Display image, headline and action button"
+msgstr ""
+
+#: ../inc/widgets.php:818
+msgid "Image:"
+msgstr ""
+
+#: ../inc/widgets.php:819
+msgid "Image Size:"
+msgstr ""
+
+#: ../inc/widgets.php:822
+msgid "Headline:"
+msgstr ""
+
+#: ../inc/widgets.php:823
+msgid "Tagline:"
+msgstr ""
+
+#: ../inc/widgets.php:824
+msgid "Action URL:"
+msgstr ""
+
+#: ../inc/widgets.php:825
+msgid "Action Label:"
+msgstr ""
+
+#: ../inc/widgets.php:826
+msgid "Action Button: "
+msgstr ""
+
+#: ../inc/widgets.php:829
+msgid "Primary"
+msgstr ""
+
+#: ../inc/widgets.php:831
+msgid "Info"
+msgstr ""
+
+#: ../inc/widgets.php:833
+msgid "Warning"
+msgstr ""
+
+#: ../inc/widgets.php:835
+msgid "Danger"
+msgstr ""
+
+#: ../inc/widgets.php:837
+msgid "Success"
+msgstr ""
+
+#: ../inc/widgets.php:839
+msgid "Custom 1"
+msgstr ""
+
+#: ../inc/widgets.php:841
+msgid "Custom 2"
+msgstr ""
+
+#: ../page-templates/atozindex.php:67
+msgid "All"
+msgstr ""
+
+#: ../page-templates/atozindex.php:139
+#, php-format
+msgid "No post start with %s. Please select All or other alphabet."
+msgstr ""
+
+#: ../scheme/scheme.php:23 ../../xin/scheme/scheme.php:20
+#: ../../xin-magazine/scheme/scheme.php:20
+msgid "Dark"
+msgstr ""
+
+#: ../scheme/scheme.php:31
+msgid "Light Blue"
+msgstr ""
+
+#: ../scheme/scheme.php:39
+msgid "Nature"
+msgstr ""
+
+#: ../scheme/scheme.php:47
+msgid "Sandy"
+msgstr ""
+
+#: ../scheme/scheme.php:55
+msgid "Silver Mac"
+msgstr ""
+
+#: ../../xin/content.php:22
+msgid "<span class=\"more-link\">read more</span>"
+msgstr ""
+
+#: ../../xin/footer.php:24 ../../xin-magazine/footer.php:24
+msgid "http://www.xinthemes.com/"
+msgstr ""
+
+#: ../../xin/footer.php:24 ../../xin-magazine/footer.php:24
+msgid "Designed by Stephen Cui"
+msgstr ""
+
+#: ../../xin/footer.php:24
+msgid "Xin Theme"
+msgstr ""
+
+#: ../../xin/functions.php:21
+msgid "Background Image"
+msgstr ""
+
+#: ../../xin/functions.php:76 ../../xin-magazine/functions.php:65
+msgid "Page "
+msgstr ""
+
+#: ../../xin/functions.php:118
+msgid "Comment"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:91
+#: ../../xin-magazine/inc/theme-options.php:95
+msgid "Sidebar 1"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:97
+#: ../../xin-magazine/inc/theme-options.php:101
+msgid "Sidebar 2"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:109
+#: ../../xin-magazine/inc/theme-options.php:113
+msgid "Left & Right "
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:111
+#: ../../xin-magazine/inc/theme-options.php:115
+msgid ""
+"Note: For Left & Right layout, Blog Widget Area (Full) will not be used. The "
+"total columns must be 12."
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:181
+#: ../../xin-magazine/inc/theme-options.php:159
+msgid "Blog"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:186
+#: ../../xin-magazine/inc/theme-options.php:164
+msgid "Posts for Carousel"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:190 ../../xin/inc/theme-options.php:208
+#: ../../xin-magazine/inc/theme-options.php:168
+#: ../../xin-magazine/inc/theme-options.php:186
+msgid "Featured Category"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:192
+#: ../../xin-magazine/inc/theme-options.php:170
+msgid "Featured Posts"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:197
+#: ../../xin-magazine/inc/theme-options.php:175
+msgid "Animation"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:214
+#: ../../xin-magazine/inc/theme-options.php:192
+msgid "Brand Name"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:219
+msgid "Brand Logo URL"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:224
+#: ../../xin-magazine/inc/theme-options.php:210
+msgid "Top Menu Position"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:246
+#: ../../xin-magazine/inc/theme-options.php:238
+msgid "Header Background"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:251
+#: ../../xin-magazine/inc/theme-options.php:243
+msgid "Title Bar Background"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:256
+#: ../../xin-magazine/inc/theme-options.php:248
+msgid "Content Background"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:261
+#: ../../xin-magazine/inc/theme-options.php:253
+msgid "Footer Background"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:384
+msgid "XIN Theme Options"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:388
+#: ../../xin-magazine/inc/theme-options.php:358
+msgid "http://xinthemes.com/docs/"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:389
+msgid "http://xinthemes.com/xin-change-log/"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:390
+#: ../../xin-magazine/inc/theme-options.php:359
+msgid "http://xinthemes.com/support/"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:391
+#: ../../xin-magazine/inc/theme-options.php:360
+msgid "http://xinthemes.com/donate/"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:406
+msgid "Addons"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:417
+#: ../../xin-magazine/inc/theme-options.php:386
+msgid "Site Layout (12 Columns)"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:420
+#: ../../xin-magazine/inc/theme-options.php:389
+msgid "Content and Sidebar Width"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:435
+msgid "Home Widget Area Width"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:447
+#: ../../xin-magazine/inc/theme-options.php:404
+msgid "Footer Widget Area Width"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:463
+#: ../../xin-magazine/inc/theme-options.php:420
+msgid "Top Bar"
+msgstr ""
+
+#: ../../xin/inc/theme-options.php:476
+#: ../../xin-magazine/inc/theme-options.php:480
+msgid "Change Background Image or Color : "
+msgstr ""
+
+#: ../../xin/pages/portfolio-ajax.php:70
+msgid "Refresh"
+msgstr ""
+
+#: ../../xin/pages/portfolio-ajax.php:77
+msgid "Loading..."
+msgstr ""
+
+#: ../../xin/scheme/scheme.php:26
+msgid "Green"
+msgstr ""
+
+#: ../../xin/xinwp/core-admin.php:92
+#: ../../xin-magazine/xinwp/core-admin.php:92
+msgid "Template Options"
+msgstr ""
+
+#: ../../xin/xinwp/core-admin.php:196
+#: ../../xin-magazine/xinwp/core-admin.php:196
+msgid "Post Options"
+msgstr ""
+
+#: ../../xin/xinwp/core-admin.php:210
+#: ../../xin-magazine/xinwp/core-admin.php:210
+msgid "Fullwidth"
+msgstr ""
+
+#: ../../xin/xinwp/core-admin.php:212
+#: ../../xin-magazine/xinwp/core-admin.php:212
+msgid "Fullscreen"
+msgstr ""
+
+#: ../../xin/xinwp/core-admin.php:216
+#: ../../xin-magazine/xinwp/core-admin.php:216
+msgid "Featured Post"
+msgstr ""
+
+#: ../../xin/xinwp/fonts.php:130 ../../xin-magazine/xinwp/fonts.php:130
+msgid "Other Font 1"
+msgstr ""
+
+#: ../../xin/xinwp/fonts.php:144 ../../xin-magazine/xinwp/fonts.php:144
+msgid "Other Font 2"
+msgstr ""
+
+#: ../../xin/xinwp/fonts.php:158 ../../xin-magazine/xinwp/fonts.php:158
+msgid "Other Font 3"
+msgstr ""
+
+#: ../../xin/xinwp/fonts.php:172 ../../xin-magazine/xinwp/fonts.php:172
+msgid "Other Font 4"
+msgstr ""
+
+#: ../../xin/xinwp/widgets.php:17 ../../xin-magazine/xinwp/widgets.php:17
+msgid "(XinThemes) Recent Posts"
+msgstr ""
+
+#: ../../xin/xinwp/widgets.php:214 ../../xin-magazine/xinwp/widgets.php:214
+msgid "(XinThemes) Navigation Tabs"
+msgstr ""
+
+#: ../../xin-magazine/category.php:29
+msgid "More from "
+msgstr ""
+
+#: ../../xin-magazine/footer.php:24
+msgid "Xin Magazine Theme"
+msgstr ""
+
+#: ../../xin-magazine/inc/theme-options.php:194
+msgid "Leave it blank to display Brand Logo."
+msgstr ""
+
+#: ../../xin-magazine/inc/theme-options.php:198
+msgid "Brand Logo"
+msgstr ""
+
+#: ../../xin-magazine/inc/theme-options.php:200
+msgid "Enter URL of the uploaded image."
+msgstr ""
+
+#: ../../xin-magazine/inc/theme-options.php:204
+msgid "Brand URL"
+msgstr ""
+
+#: ../../xin-magazine/inc/theme-options.php:206
+msgid "Enter URL of the main brand site."
+msgstr ""
+
+#: ../../xin-magazine/inc/theme-options.php:222
+msgid "# of Posts Per Section"
+msgstr ""
+
+#: ../../xin-magazine/inc/theme-options.php:354
+msgid "Xinmag Theme Options"
+msgstr ""
+
+#: ../../xin-magazine/inc/theme-options.php:373
+msgid "Section"
+msgstr ""
+
+#: ../../xin-magazine/inc/theme-options.php:433
+msgid "Available Categories:"
+msgstr ""
+
+#: ../../xin-magazine/inc/theme-options.php:434
+msgid "Sections on Home Page:"
+msgstr ""
+
+#: ../../xin-magazine/inc/theme-options.php:454
+msgid ""
+"Use drag & drop to select the categories to be display on home page and "
+"arrange the order."
+msgstr ""

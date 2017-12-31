@@ -1,0 +1,28 @@
+/* Override to Jetpack Sharing */
+div.sharedaddy div.sd-block {
+	border: none;
+}
+
+.sd-title {
+	display: none;
+}
+
+.entry-meta-middle div.sharedaddy, 
+#content .entry-meta-middle div.sharedaddy, 
+#main .entry-meta-middle div.sharedaddy {
+	clear: none;
+	display: inline;
+	float: right;
+	margin-left: 5px;
+}
+.entry-meta-middle div.sharedaddy div.sd-block {
+	float: right;
+	width: auto !important;
+	padding: 0;
+}
+
+div.sharedaddy .sd-content {
+	width: auto !important;
+	clear:  both;
+	float: left;
+}
